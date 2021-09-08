@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Node name, e.g. "Cosmos"
-NODE_NAME=""
+NODE_NAME="OmniFlix"
 # File name for saving parameters, e.g. "cosmos.log"
-LOG_FILE=""
+LOG_FILE="omniflix.log"
 # Your node RPC address, e.g. "http://127.0.0.1:26657"
 NODE_RPC=""
 # Trusted node RPC address, e.g. "https://rpc.cosmos.network:26657"
-SIDE_RPC=""
+SIDE_RPC="http://45.72.100.123:26657"
 # Telegram bot API
 TG_BOT=""
 # Telegram chat ID
